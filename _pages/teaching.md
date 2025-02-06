@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<b>Graduate Teaching Assistant, University of Texas at Austin</b>
+- Probability I (M362K), Spring 2025
+- Linear Algebra and Matrix Theory (M341), Spring 2024
+- Differential and Integral Calculus (M408C), Fall 2023
+- Discrete Mathematics (M325K), Spring 2023
+- Sequences, Series and Multivariable Calculus (M408D), Fall 2022
 
-Organize your courses by years, topics, or universities, however you like!
+<b>Other Mentoring</b>
+UT Math DRP - topics include Bezout's Theorem, Elliptic Curves, Primes and Sums of Squares, etc.
