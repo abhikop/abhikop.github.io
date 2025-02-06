@@ -6,8 +6,8 @@ subtitle: Graduate Student, <a href='https://math.utexas.edu/'>Department of Mat
 
 profile:
   align: right
-  image: profile.jpg
-  image_circular: true # crops the image to make it circular
+  image: profile1.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office: PMA 11.130</p>
     <p>Email <a href='mailto:abhishekk@utexas.edu'>abhishekk[at]utexas[dot]edu</a></p>
