@@ -15,4 +15,5 @@ nav_order: 6
 - Sequences, Series and Multivariable Calculus (M408D), Fall 2022
 
 <b>Other Mentoring</b>
+
 UT Math DRP - topics include Bezout's Theorem, Elliptic Curves, Primes and Sums of Squares, etc.
