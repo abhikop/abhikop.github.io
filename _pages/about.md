@@ -6,7 +6,7 @@ subtitle: Graduate Student, <a href='https://math.utexas.edu/'>Department of Mat
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office: PMA 11.130</p>
