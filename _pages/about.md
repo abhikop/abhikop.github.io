@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a third year PhD student at UT Austin. My advisor is <a href='https://web.ma.utexas.edu/users/sampayne/'>Sam Payne</a>. Before UT I was an undergraduate at <a href='https://www.iiserpune.ac.in/'>IISER Pune</a>. Here is a CV.
+Hi! I am a third year PhD student at UT Austin. My advisor is <a href='https://web.ma.utexas.edu/users/sampayne/'>Sam Payne</a>. Before UT I was an undergraduate at <a href='https://www.iiserpune.ac.in/'>IISER Pune</a>. Here is my [CV](/assets/CV_Abhishek_Koparde.pdf).
 
 I am broadly interested in the interplay between point counting techniques and algebraic geometry.
 
