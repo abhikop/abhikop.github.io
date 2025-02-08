@@ -10,8 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office: PMA 11.130</p>
-    <p>Email <a href='mailto:abhishekk@utexas.edu'>abhishekk[at]utexas[dot]edu</a></p>
-    <p>Mailing address: University of Texas at Austin</p>
+    <p>Email: <a href='mailto:abhishekk@utexas.edu'>abhishekk[at]utexas[dot]edu</a></p>
+    <p>Mailing address: </p>
+    <p>University of Texas at Austin</p>
     <p>2515 Speedway 8.100</p>
     <p>Austin, TX 78712</p>
     
